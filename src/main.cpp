@@ -1,6 +1,13 @@
 #include <Arduino.h>
 #include <M5StickCPlus2.h>
 
+//Hopefully i start working on this before next week.
+//Line above written at 18-05-2025 (DD-MM-YYYY bc I use that format.)
+//Above comments are unnecessary? yes.
+//It is fun to write them? Absolutely.
+
+//K i'm going to sleep, bye.
+
 void setup() {
     auto cfg = M5.config();
     StickCP2.begin(cfg);
